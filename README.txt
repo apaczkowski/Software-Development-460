@@ -1,0 +1,1 @@
+The xml_parser program reads an XML file (catalog.xml), parses it and displays all of the book titles.
