@@ -1,4 +1,5 @@
-// Make program for xml_parser
+// XML Parser Program
+
 #include <iostream>
 #include <libxml/parser.h>
 #include <libxml/tree.h>
