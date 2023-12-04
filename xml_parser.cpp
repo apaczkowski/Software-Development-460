@@ -1,5 +1,6 @@
 // XML Parser Program
 // Adding this simple comment to trigger build.  -AP
+// Adding another test trigger comment.  -AP
 
 #include <iostream>
 #include <libxml/parser.h>
