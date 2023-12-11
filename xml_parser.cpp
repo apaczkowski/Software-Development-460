@@ -54,5 +54,8 @@ int main(int argc, char** argv) {
     // Cleanup the resources used by the XML parser
     xmlCleanupParser();
 
+    // Add simple print message
+    std::cout << "Updated by Adam Dec 2023" << std::endl;
+
     return 0; // Return 0 to indicate successful execution
 }
